@@ -17,10 +17,16 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
+<<<<<<< HEAD
 
 
 }
 
 rootProject.name = "Proyecto_Equipo_U2"
+=======
+}
+
+rootProject.name = "Z_U_2_iti-271415_E_02"
+>>>>>>> e41488bb97eeb0f8d9d48eff7f6045e35850b2fc
 include(":app")
  

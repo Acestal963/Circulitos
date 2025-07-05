@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.Proyecto_Equipo_U2" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.Z_U_2_iti271415_E_02" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> e41488bb97eeb0f8d9d48eff7f6045e35850b2fc
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.Proyecto_Equipo_U2" parent="Base.Theme.Proyecto_Equipo_U2" />
+=======
+    <style name="Theme.Z_U_2_iti271415_E_02" parent="Base.Theme.Z_U_2_iti271415_E_02" />
+>>>>>>> e41488bb97eeb0f8d9d48eff7f6045e35850b2fc
 </resources>
