@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774338160526",
+    "project_id": "proyecto-u2-63b0d",
+    "storage_bucket": "proyecto-u2-63b0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774338160526:android:189649bf37ec84b40ca6df",
+        "android_client_info": {
+          "package_name": "com.olivo_de_leon_osiel_alejandro.proyecto_equipo_u2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByaGLVL7MYNApiKugqcIepJcf0C49mv9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
