@@ -40,4 +40,13 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation ("org.opencv:opencv:4.9.0")
+    implementation ("com.google.code.gson:gson:2.8.9")
+
+    // AndroidX
+    implementation ("androidx.appcompat:appcompat:1.6.1")
+    implementation ("androidx.core:core-ktx:1.10.0")
+    implementation ("androidx.appcompat:appcompat:1.6.1")
+    implementation ("androidx.core:core-ktx:1.10.0")
+
 }
